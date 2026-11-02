@@ -1,0 +1,23 @@
+
+[
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using your order ID."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return eligible products within 7 days of delivery."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Delivery usually takes 3 to 5 business days."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can contact our support team through email or live chat."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "You can request cancellation before your order is shipped."
+  }
+]
